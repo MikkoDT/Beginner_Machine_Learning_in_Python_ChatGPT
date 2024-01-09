@@ -1,8 +1,8 @@
 # Beginner_Machine_Learning_in_Python_ChatGPT
  Course in Udemy
 
-Level 1 - REGRESSION
-Linear Regression:
+**Level 1 - REGRESSION**
+**Linear Regression:**
 
 Overview
 
@@ -50,8 +50,9 @@ Implementation
 * Various libraries and tools in Python, R, and other languages.
 * Popular implementations: Scikit-learn, statsmodels, R's lm() function.
 
-Level 2 - CLASSIFICATION
-Logistic Regression:
+
+**Level 2 - CLASSIFICATION**
+**Logistic Regression:**
 
 Overview
 
