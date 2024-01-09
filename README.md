@@ -94,3 +94,47 @@ Applications
 Implementation
 
 * Available in most machine learning libraries, including scikit-learn, TensorFlow, and PyTorch.
+
+
+**Level 3 - Clustering**
+**K-Means Clustering:**
+
+Overview
+
+* An unsupervised machine learning algorithm for partitioning a dataset into a predetermined number of clusters (k).
+* Groups data points based on similarity, aiming to minimize within-cluster variance and maximize between-cluster variance.
+* Iterative process that converges to a solution.
+* 
+Key Concepts
+
+* Centroids: Representative points of each cluster, calculated as the mean of all data points within the cluster.
+* Distance Metric: Measures similarity between data points, commonly Euclidean distance.
+* Iterative Process:
+   1. Initialization: Randomly select k initial centroids.
+   2. Assignment: Assign each data point to the closest centroid based on the distance metric.
+   3. Update: Recalculate centroids as the mean of all data points within their respective clusters.
+   4. Repeat: Repeat steps 2 and 3 until convergence (centroids no longer change significantly).
+
+Advantages
+
+* Simple and efficient algorithm.
+* Scalable to large datasets.
+* Easy to interpret results.
+
+Disadvantages
+
+* Requires specifying the number of clusters (k) in advance.
+* Sensitive to outliers and initialization.
+* Assumes spherical clusters.
+  
+Applications
+
+* Customer segmentation: Identifying groups of customers with similar characteristics.
+* Image segmentation: Grouping pixels in an image based on color or texture.
+* Anomaly detection: Identifying unusual data points that don't fit into any cluster.
+* Document clustering: Grouping similar documents together.
+* Market research: Identifying market segments with distinct preferences.
+
+Implementation
+
+* Available in most machine learning libraries, including scikit-learn, TensorFlow, and PyTorch.
