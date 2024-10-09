@@ -1,0 +1,49 @@
+Linear Reggression
+
+
+"1. Boston Housing Dataset
+Link: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices   
+Description: This dataset contains information about various features of houses in Boston, including the median value. It's a classic dataset for linear regression."
+
+"2. Advertising Dataset
+Link: https://www.kaggle.com/datasets/ashydv/advertising-dataset
+Description: This dataset contains data on the amount spent on advertising through different channels (TV, radio, newspaper) and the resulting sales.1 It's a simple yet effective dataset for linear regression.   "
+
+"3. Iris Dataset
+Link: https://www.kaggle.com/datasets/vikrishnan/iris-dataset
+Description: While primarily used for classification, the Iris dataset can also be used for linear regression, especially when focusing on predicting the sepal length or petal length based on other attributes. "
+
+"4. Automobile Dataset
+Link: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction   
+Description: This dataset contains information about various attributes of cars, such as make, model, year, mileage, and price. It's a good dataset for predicting car prices using linear regression"
+
+"5. Salary Dataset
+Link: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+Description: This dataset contains information about salaries, years of experience, and other relevant factors. It's a suitable dataset for predicting salaries based on experience using linear regression."
+
+"6. Customer Satisfaction Dataset
+Link: https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
+Description: This dataset contains information about customer satisfaction ratings and various attributes related to customer interactions. It can be used to predict customer satisfaction using linear regression."
+
+"7. Sales Data
+Link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+Description: This dataset contains information about sales data, including product information, sales figures, and customer demographics. It can be used to predict sales using linear regression."
+
+"8. Weather Data
+Link: https://www.kaggle.com/datasets/muthuj7/weather-dataset
+Description: This dataset contains information about weather data, including temperature, humidity, wind speed, and precipitation. It can be used to predict weather patterns using linear regression."
+
+"9.  Stock Price Data
+Link: https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset   
+Description: This dataset contains information about stock prices, market indices, and economic indicators. It can be used to predict stock prices using linear regression."
+
+"10. Student Performance Data
+Link: https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
+Description: This dataset contains information about student performance in various subjects and factors influencing their performance. It can be used to predict student performance using linear regression. "
+
+"11. Employee Satisfaction Data
+Link: https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis
+Description: This dataset contains information about employee satisfaction ratings and various factors related to their work environment. It can be used to predict employee satisfaction using linear regression."
+
+"12. California Housing Prices: This dataset is a classic benchmark for regression tasks. It contains information about housing in California, including features like median income, housing median age, and total rooms, with the dependent variable being the median house value.
+Link: https://www.kaggle.com/datasets/camnugent/california-housing-prices"
