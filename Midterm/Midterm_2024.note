@@ -1,6 +1,5 @@
 Linear Reggression
 
-
 "1. Boston Housing Dataset
 Link: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices   
 Description: This dataset contains information about various features of houses in Boston, including the median value. It's a classic dataset for linear regression."
@@ -47,3 +46,46 @@ Description: This dataset contains information about employee satisfaction ratin
 
 "12. California Housing Prices: This dataset is a classic benchmark for regression tasks. It contains information about housing in California, including features like median income, housing median age, and total rooms, with the dependent variable being the median house value.
 Link: https://www.kaggle.com/datasets/camnugent/california-housing-prices"
+
+Logistic Regression
+
+"1. Diabetes Dataset
+Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database   
+Description: This dataset contains information about patients, including their medical attributes. It's a suitable dataset for predicting the presence or absence of diabetes using logistic regression."
+
+"2. Link: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009   
+Description: This dataset contains information about wine quality, including various chemical attributes. It can be used for binary classification tasks like predicting whether a wine is good or bad quality."
+
+"3. Mushroom Classification Dataset
+Link: https://www.kaggle.com/datasets/uciml/mushroom-classification   
+Description: This dataset contains information about mushrooms, including their features. It's a suitable dataset for binary classification tasks like predicting whether a mushroom is poisonous or edible."
+
+"4. Customer Satisfaction Dataset
+Link: https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
+Description: This dataset contains information about customer satisfaction ratings and various attributes related to customer interactions. It can be used to predict customer satisfaction using logistic regression."
+
+"6. Titanic Dataset
+Link: https://www.kaggle.com/c/titanic
+Description: This dataset contains information about passengers on the Titanic, including survival status, age, gender, class, and ticket fare. It's a classic dataset for binary classification using logistic regression."
+
+"7. Breast Cancer Wisconsin Dataset
+Link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data   
+Description: This dataset contains information about breast cancer tumors, including their features. It's a popular dataset for binary classification tasks like predicting whether a tumor is benign or malignant."
+
+"8. Adult Census Income Dataset:
+Link: https://www.kaggle.com/uciml/adult-census-income
+Description: This dataset contains demographic information about individuals in the US, including age, work experience, education level, and their income classification (greater than or equal to $50K or less than $50K). It's a classic example for binary classification using logistic regression to predict income level."
+
+"9. Iris Flower Classification Dataset:
+Link: https://www.kaggle.com/uciml/iris
+Description: While commonly used for multi-class classification problems (e.g., using decision trees or neural networks), the Iris dataset can also be utilized for logistic regression tasks. By focusing on predicting the species of an Iris flower (e.g., Iris Setosa, Iris Versicolor, Iris Virginica) based on measurements like sepal and petal length/width, students can explore using logistic regression for multi-class classification by constructing one-vs-rest models."
+
+"10. Heart Disease UCI Dataset: This dataset contains information about various medical attributes of patients, including whether or not they have heart disease. It's a suitable dataset for predicting the presence or absence of heart disease using logistic regression.
+Link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset"
+
+"11. Employee Attrition Dataset: This dataset contains information about employee demographics, job satisfaction, and attrition status. It's a suitable dataset for predicting employee attrition using logistic regression.
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset"
+
+"12. Customer Churn Dataset: This dataset contains information about customer demographics, usage patterns, and churn status. It's a suitable dataset for predicting customer churn using logistic regression.
+Link: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+Sources and related content"
