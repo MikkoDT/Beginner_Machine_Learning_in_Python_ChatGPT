@@ -64,6 +64,11 @@ Description: This dataset contains information about mushrooms, including their 
 Link: https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
 Description: This dataset contains information about customer satisfaction ratings and various attributes related to customer interactions. It can be used to predict customer satisfaction using logistic regression."
 
+"5. Bank Marketing Dataset
+Link: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+Description: This dataset contains information on various client attributes, marketing campaigns, and whether the client subscribed to a term deposit. It’s a good dataset for binary classification tasks such as predicting if a customer will subscribe to a term deposit based on demographic and campaign data."
+
+
 "6. Titanic Dataset
 Link: https://www.kaggle.com/c/titanic
 Description: This dataset contains information about passengers on the Titanic, including survival status, age, gender, class, and ticket fare. It's a classic dataset for binary classification using logistic regression."
